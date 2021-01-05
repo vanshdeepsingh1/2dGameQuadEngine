@@ -33,14 +33,26 @@ TileMap
 # Instalation
 
 Install at least the Java JDK 8
+
 Choose your favourite IDE (Eclipse, Netbeans...)
+
 Download the latest [Quad Engine]
+
 Include all Quad Engine classes you need for your project:
+
 Quad Engine (minimum requirement)
+
 GameContainer (main game loop)
+
 Abstract Game (base for game development)
+
 Renderer (support for rendering)
+
 GameObject (base for creating objects)
+
 Background (parralax background support)
+
 TileMap (support for creating dynamic map)
+
 You are now ready to use the Quad Engine in your project
+
